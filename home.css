@@ -1,0 +1,25 @@
+
+ p{
+    font-family: 'Times New Roman';
+    font-size:1.1rem;
+    font-weight: 100;
+   text-align: left;
+   text-indent: 50px;
+
+}
+h1{
+    text-align: center;
+ 
+}
+img {
+    float: left;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
+  }
+  .fa-heart {
+    color: red;
+ }
+ footer{
+    text-align: center;
+ }
+ 
